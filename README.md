@@ -40,6 +40,5 @@ at the **University of Georgia**, under the direction of **Dr. Gaurav Sinha**.
 ## 📬 Contact
 
 - **Lead Researcher**: Varun Venkatagiri  
-- **Lab**: https://afirm.uga.edu  
-- **Email**: [your-email@example.com]
+- **Email**: Varun.Venkatagiri@uga.edu
 
