@@ -1,0 +1,6 @@
+A6,J1,J2,J20,A3Ar_w_2,A3Ar_w_3,A3Ar_w_4,A3Ar_w_5,A3Ar_w_6,A50A_2,A4A_new_w_2,A9_2,A9_3,A9_4,A9_5,A9_6,A9_7,A9_8,true_label,predicted_label
+1,5,7,1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,debtor,spender
+1,6,4,1,True,False,False,False,False,False,False,True,False,False,False,False,False,False,spender,debtor
+1,8,8,1,False,False,True,False,False,False,False,True,False,False,False,False,False,False,spender,debtor
+2,9,7,2,True,False,False,False,False,True,True,True,False,False,False,False,False,False,debtor,spender
+1,5,5,1,False,False,True,False,False,True,False,True,False,False,False,False,False,False,saver,debtor
