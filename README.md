@@ -34,7 +34,7 @@ Please cite or contact the authors before reusing material.
 ## 🧪 Lab & Affiliation
 
 This project was conducted as part of undergraduate research in the  
-**AFiRM Lab (Advancing Financial Resilience and Mental Wellbeing)**  
+**AFiRM Lab**  
 at the **University of Georgia**, under the direction of **Dr. Gaurav Sinha**.
 
 ## 📬 Contact
