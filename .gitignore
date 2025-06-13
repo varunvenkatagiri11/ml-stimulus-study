@@ -4,4 +4,6 @@ data/raw/*.csv
 outputs/models/*.pkl
 misclassified_examples.csv
 .ipynb_checkpoints/
+data/processed/stimulus_cleaned.csv
+
 *.DS_Store
