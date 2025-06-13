@@ -1,0 +1,7 @@
+data/processed/X_*.pkl
+data/processed/y_*.pkl
+data/raw/*.csv
+outputs/models/*.pkl
+misclassified_examples.csv
+.ipynb_checkpoints/
+*.DS_Store
